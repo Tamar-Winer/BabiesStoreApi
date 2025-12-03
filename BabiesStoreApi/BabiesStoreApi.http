@@ -1,0 +1,6 @@
+@BabiesStoreApi_HostAddress = http://localhost:5239
+
+GET {{BabiesStoreApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

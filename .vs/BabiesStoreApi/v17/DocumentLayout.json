@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\repo\\productrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\repo\\productrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\repo\\categoryrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\repo\\categoryrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\API\\hw1\\hw1\\Controllers\\productsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\data\\storecontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\data\\storecontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\migrations\\20251203131652_addsubcategoriestable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\migrations\\20251203131652_addsubcategoriestable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\migrations\\20251203131626_addsubcategoriestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\migrations\\20251203131626_addsubcategoriestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\data\\storedbfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\data\\storedbfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\migrations\\20251203125216_addorderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\migrations\\20251203125216_addorderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\migrations\\20251203120344_addisdeletedtoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\migrations\\20251203120344_addisdeletedtoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\migrations\\20251203123040_addisdeletedcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\migrations\\20251203123040_addisdeletedcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\babiesstoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\babiesstoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|c:\\users\\user1\\desktop\\programing\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\babiesstoreapi\\babiesstoreapi\\babiesstoreapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7A5D0E87-DC39-41F9-9632-BC6FD06DADB8}|BabiesStoreApi\\BabiesStoreApi.csproj|solutionrelative:babiesstoreapi\\babiesstoreapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Services\\ProductService.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Services\\ProductService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAqwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:06:29.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:12:53.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Services\\CategoryService.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:17:37.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Dtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Dtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Dtos\\CategoryDto.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Dtos\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:09:39.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Program.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Program.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:56:07.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Models\\Product.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T20:01:16.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAcwIkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:12:10.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepos.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Repo\\ProductRepos.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Repo\\ProductRepos.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Repo\\ProductRepos.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Repo\\ProductRepos.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAqwJMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T18:39:50.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Dtos\\ProductDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA5wAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T18:44:38.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryRepos.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Repo\\CategoryRepos.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Repo\\CategoryRepos.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Repo\\CategoryRepos.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Repo\\CategoryRepos.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T12:09:30.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20251203131652_AddSubCategoriesTable2.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Migrations\\20251203131652_AddSubCategoriesTable2.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Migrations\\20251203131652_AddSubCategoriesTable2.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Migrations\\20251203131652_AddSubCategoriesTable2.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Migrations\\20251203131652_AddSubCategoriesTable2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:16:55.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StoreContextDB.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Data\\StoreContextDB.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Data\\StoreContextDB.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Data\\StoreContextDB.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Data\\StoreContextDB.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T20:14:32.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251203131626_AddSubCategoriesTable.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Migrations\\20251203131626_AddSubCategoriesTable.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Migrations\\20251203131626_AddSubCategoriesTable.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Migrations\\20251203131626_AddSubCategoriesTable.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Migrations\\20251203131626_AddSubCategoriesTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:16:35.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Models\\Category.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T20:05:21.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StoreDbFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Data\\StoreDbFactory.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Data\\StoreDbFactory.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Data\\StoreDbFactory.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Data\\StoreDbFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:00:42.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Models\\Order.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T12:49:51.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20251203125216_AddOrdersTable.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Migrations\\20251203125216_AddOrdersTable.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Migrations\\20251203125216_AddOrdersTable.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Migrations\\20251203125216_AddOrdersTable.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Migrations\\20251203125216_AddOrdersTable.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T12:53:46.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20251203120344_AddIsDeletedToProduct.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Migrations\\20251203120344_AddIsDeletedToProduct.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Migrations\\20251203120344_AddIsDeletedToProduct.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Migrations\\20251203120344_AddIsDeletedToProduct.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Migrations\\20251203120344_AddIsDeletedToProduct.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T12:22:44.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20251203123040_AddIsDeletedColumn.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Migrations\\20251203123040_AddIsDeletedColumn.cs",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\Migrations\\20251203123040_AddIsDeletedColumn.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\Migrations\\20251203123040_AddIsDeletedColumn.cs",
+              "RelativeToolTip": "BabiesStoreApi\\Migrations\\20251203123040_AddIsDeletedColumn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T12:31:34.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\appsettings.json",
+              "RelativeToolTip": "BabiesStoreApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T20:27:39.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BabiesStoreApi.http",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\BabiesStoreApi.http",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\BabiesStoreApi.http",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\BabiesStoreApi.http",
+              "RelativeToolTip": "BabiesStoreApi\\BabiesStoreApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-01T20:27:37.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BabiesStoreApi.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\BabiesStoreApi.csproj",
+              "RelativeDocumentMoniker": "BabiesStoreApi\\BabiesStoreApi.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PROGRAMING\\\u05EA\u05E9\u05E4\u05D5 \u05D9\u05D3\\api\\BabiesStoreApi\\BabiesStoreApi\\BabiesStoreApi.csproj",
+              "RelativeToolTip": "BabiesStoreApi\\BabiesStoreApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-01T20:00:30.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "0b3d3d77-c936-4d13-a65c-2b3e0ce5320f",
+        "Display": 0,
+        "X": 693,
+        "Y": 205,
+        "Width": 1031,
+        "Height": 766,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "productsController.cs",
+              "DocumentMoniker": "E:\\API\\hw1\\hw1\\Controllers\\productsController.cs",
+              "ToolTip": "E:\\API\\hw1\\hw1\\Controllers\\productsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T14:06:36.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
