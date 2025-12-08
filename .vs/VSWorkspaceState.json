@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BabiesStoreApi"
+    "\\BabiesStoreApi",
+    "\\BabiesStoreApi\\Repo"
   ],
   "SelectedNode": "\\BabiesStoreApi.sln",
   "PreviewInSolutionExplorer": false

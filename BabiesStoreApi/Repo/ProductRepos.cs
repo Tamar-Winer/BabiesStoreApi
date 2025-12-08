@@ -1,13 +1,19 @@
 ﻿using BabiesStoreApi.Data;
 using BabiesStoreApi.Dtos;
+using BabiesStoreApi.Interfaces;
 using BabiesStoreApi.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace BabiesStoreApi.Repo
 {
-    public class ProductRepos
+    public class ProductRepos:IProductRepository
     {
-        private readonly StoreContextDB _storeContext=StoreDbFactory.CreateContext();
+        private readonly StoreContextDB _storeContext;
+
+        public ProductRepos(StoreContextDB storeContext)
+        {
+            _storeContext = storeContext;
+        }
 
         public List<ProductDto> GetProducts()
         {

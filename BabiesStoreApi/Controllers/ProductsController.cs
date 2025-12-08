@@ -1,5 +1,6 @@
 ﻿using BabiesStoreApi.Data;
 using BabiesStoreApi.Dtos;
+using BabiesStoreApi.Interfaces;
 using BabiesStoreApi.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -10,14 +11,41 @@ namespace BabiesStoreApi.Controllers
     [ApiController]
     public class ProductsController : ControllerBase
     {
-        private readonly ProductService _productService = new();
-        private readonly StoreContextDB _storeContext; // DbContext
+        private readonly IProductService _productService;
 
-        public ProductsController(ProductService productService, StoreContextDB storeContext)
+        private readonly StoreContextDB _storeContext; // DbContext
+        private readonly Func<string, INotificationService> _notificationFactory;
+
+        public ProductsController(IProductService productService, StoreContextDB storeContext, Func<string, INotificationService> notificationFactory)
         {
             _productService = productService;
-            _storeContext = storeContext; // הזרקה של DbContext
+            _storeContext = storeContext;
+            _notificationFactory = notificationFactory;
         }
+
+
+        [HttpGet("testNotification")]
+        public IActionResult Test()
+        {
+            var sms = _notificationFactory("sms");
+            sms.Send("055-6746177", "Hello from SMS!");
+
+            var email = _notificationFactory("email");
+            email.Send("winer4852@gmail.com", "Hello from Email!");
+
+            return Ok();
+        }
+
+        [HttpPost("notify")]
+        public IActionResult TestNotification([FromQuery] string type, [FromQuery] string to)
+        {
+            var service = _notificationFactory(type); // מקבל sms או email
+
+            service.Send(to, "Test message!");
+
+            return Ok($"Notification sent using {type}!");
+        }
+
 
         [HttpGet]
         public IActionResult GetProducts()

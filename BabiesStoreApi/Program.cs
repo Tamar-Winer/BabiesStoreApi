@@ -1,4 +1,6 @@
 using BabiesStoreApi.Data;
+using BabiesStoreApi.Interfaces;
+using BabiesStoreApi.Repo;
 using BabiesStoreApi.Services;
 using Microsoft.AspNetCore.Authentication.Negotiate;
 using Microsoft.EntityFrameworkCore;
@@ -25,6 +27,23 @@ builder.Services.AddAuthorization(options =>
 builder.Services.AddDbContext<StoreContextDB>(options => 
 options.UseSqlServer("Server=localhost;Database=BabiesStoreDb;Trusted_Connection=True;TrustServerCertificate=True;"
 ));
+
+builder.Services.AddScoped<IProductRepository, ProductRepos>();
+builder.Services.AddScoped<ProductRepos>();
+builder.Services.AddScoped<IProductService, ProductService>();
+
+builder.Services.AddScoped<EmailNotificationService>();
+builder.Services.AddScoped<SmsNotificationService>();
+builder.Services.AddScoped<Func<string, INotificationService>>(serviceProvider => key =>
+{
+    return key switch
+    {
+        "email" => serviceProvider.GetRequiredService<EmailNotificationService>(),
+        "sms" => serviceProvider.GetRequiredService<SmsNotificationService>(),
+        _ => throw new Exception("Invalid notification type")
+    };
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

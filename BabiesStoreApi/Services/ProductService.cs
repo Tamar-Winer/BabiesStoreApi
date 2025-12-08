@@ -1,13 +1,19 @@
 ﻿using BabiesStoreApi.Dtos;
+using BabiesStoreApi.Interfaces;
 using BabiesStoreApi.Models;
 using BabiesStoreApi.Repo;
 using Microsoft.EntityFrameworkCore;
 
 namespace BabiesStoreApi.Services
 {
-    public class ProductService
+    public class ProductService : IProductService
     {
-        private readonly ProductRepos repository = new();
+        private readonly ProductRepos repository;
+
+        public ProductService(ProductRepos repository)
+        {
+            this.repository = repository;
+        }
         public List<ProductDto> GetProducts()
         {
             return repository.GetProducts();
